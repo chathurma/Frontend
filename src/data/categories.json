@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "categoryCode": "ELECT",
+      "description": "Devices and gadgets powered by electronics."
+    },
+    {
+      "id": 2,
+      "categoryCode": "FURN",
+      "description": "Various types of furniture for home and office use."
+    },
+    {
+      "id": 3,
+      "categoryCode": "APPL",
+      "description": "Home appliances for various purposes."
+    }
+  ]
+  

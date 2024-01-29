@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123",
+      "role": "1005",
+      "email": "admin.com"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "password": "securepass",
+      "role": "1001",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": 3,
+      "username": "admin",
+      "password": "Thedi",
+      "role": "1005",
+      "email": "nktchathurma@gmail.com"
+    }
+  ]
+  
